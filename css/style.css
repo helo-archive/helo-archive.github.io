@@ -140,6 +140,7 @@ footer > div {margin-bottom: 14.2132px}
 
 @media (max-width: 100vh) {body {margin: 25px auto auto;}}
 @media (max-width: 50vh) {p, h3 {font-size: 35px;}
+                          .explainer-text, .quotes {font-size: 25px;}
                           ul {font-size: 25px;}
                           .small-text {font-size: 20px;}
                           h1, h2 {font-size: 45px}
